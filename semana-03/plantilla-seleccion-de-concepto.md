@@ -1,4 +1,4 @@
-# Selección de concepto
+# Justificación de flujos seleccionados
 
 ## Información del equipo
 
@@ -8,63 +8,81 @@
 
 ---
 
-## Conceptos evaluados
+## Flujos seleccionados
 
-¿Cuáles fueron las ideas finalistas y cuáles dos pasarán a prototipo de baja resolución?
+Registren los flujos que el equipo decidió trabajar esta semana.
 
-**Ideas finalistas:**
+### Flujo 1
 
-1.
+**Nombre del flujo:**
 
-2.
+**¿Por qué merece prioridad?**
 
-3.
+**¿Qué pasaría si este flujo no funciona bien?**
 
-**Dos ideas seleccionadas para prototipar:**
+### Flujo 2
 
-- Prototipo A:
+**Nombre del flujo:**
 
-- Prototipo B:
+**¿Por qué merece prioridad?**
 
----
+**¿Qué pasaría si este flujo no funciona bien?**
 
-## Comparación rápida
+### Flujo 3
 
-Completen de forma breve:
+**Nombre del flujo:**
 
-### Idea 1
+**¿Por qué merece prioridad?**
 
-**Fortalezas:**
+**¿Qué pasaría si este flujo no funciona bien?**
 
-**Debilidades:**
+### Flujo 4
 
-### Idea 2
+**Nombre del flujo:**
 
-**Fortalezas:**
+**¿Por qué merece prioridad?**
 
-**Debilidades:**
+**¿Qué pasaría si este flujo no funciona bien?**
 
-### Idea 3
-
-**Fortalezas:**
-
-**Debilidades:**
+> Si el equipo solo trabaja 2 o 3 flujos, puede dejar vacío el último.
 
 ---
 
-## Validación exploratoria
+## Criterios de priorización
 
-¿Con quién validaron estas dos propuestas?
+¿Qué criterios usó el equipo para decidir estos flujos?
+
+- Impacto para el usuario
+- Frecuencia de uso
+- Valor para el sistema
+- Riesgo o incertidumbre
+- Otro:
+
+Expliquen brevemente:
+
+- 
+
+- 
+
+- 
+
+---
+
+## Validación exploratoria por flujo
+
+¿Con quién validaron los prototipos de baja resolución?
 
 - Usuario potencial
 - Compañero
 - Otro:
 
-¿Cuántas personas participaron?
+¿Cuántas personas participaron en total?
 
 **Cantidad:**
 
-¿Qué reacción general tuvieron frente al Prototipo A?
+### Flujo 1
+
+**¿Qué aprendieron al comparar las dos versiones de este flujo?**
 
 - 
 
@@ -72,7 +90,67 @@ Completen de forma breve:
 
 - 
 
-¿Qué reacción general tuvieron frente al Prototipo B?
+**¿Qué versión pasa a la semana 4?**
+
+- Versión A
+- Versión B
+
+### Flujo 2
+
+**¿Qué aprendieron al comparar las dos versiones de este flujo?**
+
+- 
+
+- 
+
+- 
+
+**¿Qué versión pasa a la semana 4?**
+
+- Versión A
+- Versión B
+
+### Flujo 3
+
+**¿Qué aprendieron al comparar las dos versiones de este flujo?**
+
+- 
+
+- 
+
+- 
+
+**¿Qué versión pasa a la semana 4?**
+
+- Versión A
+- Versión B
+
+### Flujo 4
+
+**¿Qué aprendieron al comparar las dos versiones de este flujo?**
+
+- 
+
+- 
+
+- 
+
+**¿Qué versión pasa a la semana 4?**
+
+- Versión A
+- Versión B
+
+---
+
+## Conclusión de la semana
+
+¿Qué flujos y qué versiones pasan a la semana 4?
+
+---
+
+## Razones de la decisión
+
+¿Por qué estas decisiones parecen las mejores para avanzar después de la validación exploratoria?
 
 - 
 
@@ -82,25 +160,7 @@ Completen de forma breve:
 
 ---
 
-## Concepto elegido
-
-¿Qué propuesta eligió el equipo para pasar a la semana 4?
-
----
-
-## Razones de la elección
-
-¿Por qué esta propuesta parece la mejor para avanzar después de la validación exploratoria?
-
-- 
-
-- 
-
-- 
-
----
-
-## Riesgos de la idea elegida
+## Riesgos que siguen abiertos
 
 ¿Qué cosas siguen sin estar claras y deben validarse mejor en la semana 4?
 
@@ -112,7 +172,7 @@ Completen de forma breve:
 
 ---
 
-## Hipótesis iniciales
+## Hipótesis iniciales para la semana 4
 
 Completen las frases:
 

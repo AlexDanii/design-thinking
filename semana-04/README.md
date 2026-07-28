@@ -8,14 +8,14 @@ Construir un prototipo inicial que permita mostrar la solución y realizar una p
 
 Al finalizar esta entrega, el equipo debe haber obtenido:
 
-- Un prototipo inicial en Figma con alcance claro.
-- Una decisión sobre qué parte de la solución se va a mostrar primero.
+- Un prototipo inicial en Figma construido a partir de los flujos justificados en la semana 3.
+- Una decisión sobre qué partes de esos flujos se van a mostrar primero.
 - Una primera validación del prototipo con usuarios reales.
 
 Durante esta semana, el equipo deberá:
 
-- Tomar el flujo justificado que salió de la semana 3.
-- Convertir ese flujo en un prototipo inicial más claro.
+- Tomar los flujos justificados que salieron de la semana 3.
+- Convertir esos flujos en un prototipo inicial más claro.
 - Representar las pantallas o pasos esenciales de la solución.
 - Decidir qué parte del sistema van a mostrar primero.
 - Preparar un guion simple para probar el prototipo.
@@ -24,7 +24,7 @@ Durante esta semana, el equipo deberá:
 
 ## Secuencia sugerida de trabajo
 
-1. Revisen el flujo seleccionado y la validación exploratoria de la semana 3.
+1. Revisen los flujos seleccionados y la validación exploratoria de la semana 3.
 2. Definan qué van a mostrar y qué van a dejar por fuera en `plantilla-prototipo.md`.
 3. Construyan en Figma el prototipo inicial con ese alcance.
 4. Preparen y apliquen la validación con `plantilla-guion-de-prueba.md`.

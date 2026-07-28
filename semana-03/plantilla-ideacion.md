@@ -1,4 +1,4 @@
-# Registro de ideación
+# Definición de flujos prioritarios
 
 ## Información del equipo
 
@@ -26,9 +26,20 @@ Ejemplo:
 
 ---
 
-## Ideas generadas
+## Flujos posibles de la aplicación
 
-Registren al menos 8 ideas, sin juzgarlas al inicio.
+Antes de elegir, piensen en los posibles flujos o recorridos que podría tener la aplicación.
+
+Ejemplos de flujo:
+
+- Proponer una idea.
+- Explorar ideas de otros estudiantes.
+- Unirse a una idea.
+- Formar equipo.
+- Publicar un prototipo.
+- Recibir apoyo o respuestas de la comunidad.
+
+Registren al menos 6 flujos posibles.
 
 1.
 
@@ -48,24 +59,40 @@ Registren al menos 8 ideas, sin juzgarlas al inicio.
 
 ---
 
-## Ideas más prometedoras
+## Flujos priorizados
 
-Seleccionen 3 ideas para explorar mejor.
+Seleccionen entre 2 y 4 flujos para trabajar esta semana.
 
-### Idea 1
+### Flujo 1
 
-**¿Qué propone?**
+**Nombre del flujo:**
 
-**¿Qué valor aporta?**
+**¿Qué quiere lograr el usuario en este flujo?**
 
-### Idea 2
+**¿Por qué este flujo es importante?**
 
-**¿Qué propone?**
+### Flujo 2
 
-**¿Qué valor aporta?**
+**Nombre del flujo:**
 
-### Idea 3
+**¿Qué quiere lograr el usuario en este flujo?**
 
-**¿Qué propone?**
+**¿Por qué este flujo es importante?**
 
-**¿Qué valor aporta?**
+### Flujo 3
+
+**Nombre del flujo:**
+
+**¿Qué quiere lograr el usuario en este flujo?**
+
+**¿Por qué este flujo es importante?**
+
+### Flujo 4
+
+**Nombre del flujo:**
+
+**¿Qué quiere lograr el usuario en este flujo?**
+
+**¿Por qué este flujo es importante?**
+
+> Si el equipo solo va a trabajar 2 o 3 flujos, puede dejar vacío el último.

@@ -1,7 +1,7 @@
-# Flujo inicial de la propuesta
+# Prototipos de baja resolución por flujo
 
-> Este entregable debe estar acompañado por dos prototipos de baja resolución realizados en Figma.
-> En esta etapa basta con flujos de baja fidelidad: pantallas simples, nombres claros y conexiones entre pasos.
+> Este entregable debe estar acompañado por dos prototipos de baja resolución realizados en Figma por cada flujo priorizado.
+> Los prototipos pueden ser independientes entre sí; no es necesario integrarlos todavía en una sola experiencia completa.
 
 ## Información del equipo
 
@@ -11,114 +11,278 @@
 
 ---
 
-## Escenario principal
+## Instrucción general
 
-¿Qué situación quieren resolver con estos prototipos?
-
----
-
-## Usuario principal
-
-¿Quién usará estos flujos?
+Repitan esta estructura para cada flujo priorizado. Si el equipo trabaja solo 2 o 3 flujos, puede dejar vacío el último bloque.
 
 ---
 
-## Prototipo A: paso a paso
+## Flujo 1
 
-Describan de forma sencilla el recorrido principal del usuario.
+**Nombre del flujo:**
+
+**¿Qué quiere lograr el usuario en este flujo?**
+
+### Versión A: paso a paso
 
 1. El usuario...
 2. Luego...
 3. Después...
 4. Finalmente...
 
----
-
-## Prototipo A: pantallas o momentos clave
-
-¿Qué pantallas, vistas o momentos incluye este prototipo?
+### Versión A: pantallas o momentos clave
 
 1.
-
 2.
-
 3.
-
 4.
 
----
-
-## Prototipo B: paso a paso
-
-Describan de forma sencilla el recorrido principal del usuario.
+### Versión B: paso a paso
 
 1. El usuario...
 2. Luego...
 3. Después...
 4. Finalmente...
 
----
-
-## Prototipo B: pantallas o momentos clave
-
-¿Qué pantallas, vistas o momentos incluye este prototipo?
+### Versión B: pantallas o momentos clave
 
 1.
-
 2.
-
 3.
-
 4.
 
----
+### Evidencia en Figma
 
-## Evidencia en Figma
+**Enlace versión A:**
 
-Peguen aquí el enlace al archivo o frame de Figma de cada propuesta:
+**Enlace versión B:**
 
-**Enlace Prototipo A:**
+### Resultado de la validación exploratoria
 
-**Enlace Prototipo B:**
+**¿Con quién se probó este flujo?**
 
-Describan brevemente qué mostraron en Figma:
-
-- 
+**¿Qué reacción generó la versión A?**
 
 - 
-
+- 
 - 
 
----
-
-## Flujo seleccionado para avanzar
-
-¿Con cuál de los dos prototipos van a avanzar a la semana 4?
-
-**Prototipo elegido:**
-
-¿Por qué?
+**¿Qué reacción generó la versión B?**
 
 - 
-
+- 
 - 
 
+### Versión seleccionada para la semana 4
+
+**Versión elegida:**
+
+**¿Por qué?**
+
 - 
-
----
-
-## Valor esperado
-
-¿Qué debería lograr el usuario al final del flujo que fue seleccionado?
+- 
+- 
 
 ---
 
-## Preguntas para validar mejor en la semana 4
+## Flujo 2
 
-¿Qué quieren aprender cuando conviertan este flujo en un prototipo más claro?
+**Nombre del flujo:**
+
+**¿Qué quiere lograr el usuario en este flujo?**
+
+### Versión A: paso a paso
+
+1. El usuario...
+2. Luego...
+3. Después...
+4. Finalmente...
+
+### Versión A: pantallas o momentos clave
+
+1.
+2.
+3.
+4.
+
+### Versión B: paso a paso
+
+1. El usuario...
+2. Luego...
+3. Después...
+4. Finalmente...
+
+### Versión B: pantallas o momentos clave
+
+1.
+2.
+3.
+4.
+
+### Evidencia en Figma
+
+**Enlace versión A:**
+
+**Enlace versión B:**
+
+### Resultado de la validación exploratoria
+
+**¿Con quién se probó este flujo?**
+
+**¿Qué reacción generó la versión A?**
 
 - 
-
+- 
 - 
 
+**¿Qué reacción generó la versión B?**
+
+- 
+- 
+- 
+
+### Versión seleccionada para la semana 4
+
+**Versión elegida:**
+
+**¿Por qué?**
+
+- 
+- 
+- 
+
+---
+
+## Flujo 3
+
+**Nombre del flujo:**
+
+**¿Qué quiere lograr el usuario en este flujo?**
+
+### Versión A: paso a paso
+
+1. El usuario...
+2. Luego...
+3. Después...
+4. Finalmente...
+
+### Versión A: pantallas o momentos clave
+
+1.
+2.
+3.
+4.
+
+### Versión B: paso a paso
+
+1. El usuario...
+2. Luego...
+3. Después...
+4. Finalmente...
+
+### Versión B: pantallas o momentos clave
+
+1.
+2.
+3.
+4.
+
+### Evidencia en Figma
+
+**Enlace versión A:**
+
+**Enlace versión B:**
+
+### Resultado de la validación exploratoria
+
+**¿Con quién se probó este flujo?**
+
+**¿Qué reacción generó la versión A?**
+
+- 
+- 
+- 
+
+**¿Qué reacción generó la versión B?**
+
+- 
+- 
+- 
+
+### Versión seleccionada para la semana 4
+
+**Versión elegida:**
+
+**¿Por qué?**
+
+- 
+- 
+- 
+
+---
+
+## Flujo 4
+
+**Nombre del flujo:**
+
+**¿Qué quiere lograr el usuario en este flujo?**
+
+### Versión A: paso a paso
+
+1. El usuario...
+2. Luego...
+3. Después...
+4. Finalmente...
+
+### Versión A: pantallas o momentos clave
+
+1.
+2.
+3.
+4.
+
+### Versión B: paso a paso
+
+1. El usuario...
+2. Luego...
+3. Después...
+4. Finalmente...
+
+### Versión B: pantallas o momentos clave
+
+1.
+2.
+3.
+4.
+
+### Evidencia en Figma
+
+**Enlace versión A:**
+
+**Enlace versión B:**
+
+### Resultado de la validación exploratoria
+
+**¿Con quién se probó este flujo?**
+
+**¿Qué reacción generó la versión A?**
+
+- 
+- 
+- 
+
+**¿Qué reacción generó la versión B?**
+
+- 
+- 
+- 
+
+### Versión seleccionada para la semana 4
+
+**Versión elegida:**
+
+**¿Por qué?**
+
+- 
+- 
 - 
