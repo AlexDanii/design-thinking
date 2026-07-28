@@ -4,6 +4,14 @@
 
 Poner el prototipo frente a usuarios reales, recoger evidencia y decidir cómo debe mejorar la propuesta.
 
+## Qué debe lograr el equipo esta semana
+
+Al finalizar esta entrega, el equipo debe haber obtenido:
+
+- Evidencia real sobre cómo reaccionan los usuarios al prototipo.
+- Claridad sobre qué partes de la propuesta funcionan y cuáles no.
+- Un plan inicial de mejora o iteración para la siguiente etapa.
+
 Durante esta semana, el equipo deberá:
 
 - Realizar pruebas con usuarios.
@@ -23,7 +31,7 @@ Primero se prueba, después se analiza lo ocurrido y finalmente se decide cómo 
 
 ## Entregables
 
-El equipo deberá entregar los siguientes documentos:
+El equipo deberá entregar:
 
 - `plantilla-resultados-de-validacion.md`
 - `plantilla-plan-de-iteracion.md`
@@ -31,4 +39,4 @@ El equipo deberá entregar los siguientes documentos:
 
 ## Fecha de entrega
 
-Martes de la próxima semana, antes del inicio de la clase.
+Martes 1 de septiembre de 2026, antes de la clase del miércoles 2 de septiembre de 2026.

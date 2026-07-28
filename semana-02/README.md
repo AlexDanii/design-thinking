@@ -4,6 +4,14 @@
 
 Transformar lo aprendido en la semana 1 en una definición clara del problema que el equipo quiere abordar.
 
+## Qué debe lograr el equipo esta semana
+
+Al finalizar esta entrega, el equipo debe haber obtenido:
+
+- Una síntesis clara de los principales hallazgos de la investigación.
+- Una identificación más precisa del usuario principal.
+- Una definición concreta del problema o necesidad que vale la pena trabajar.
+
 Durante esta semana, el equipo deberá:
 
 - Revisar entrevistas, historias de innovación y reflexiones de la semana 1.
@@ -23,7 +31,7 @@ Primero se sintetiza la información y después se toma la decisión sobre el pr
 
 ## Entregables
 
-El equipo deberá entregar los siguientes documentos:
+El equipo deberá entregar:
 
 - `plantilla-mapa-de-insights.md`
 - `plantilla-pov.md`
@@ -31,4 +39,4 @@ El equipo deberá entregar los siguientes documentos:
 
 ## Fecha de entrega
 
-Martes de la próxima semana, antes del inicio de la clase.
+Martes 11 de agosto de 2026, antes de la clase del miércoles 12 de agosto de 2026.

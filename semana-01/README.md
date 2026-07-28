@@ -4,6 +4,14 @@
 
 Comprender a los usuarios potenciales y el problema antes de proponer soluciones.
 
+## Qué debe lograr el equipo esta semana
+
+Al finalizar esta entrega, el equipo debe haber obtenido una primera comprensión de:
+
+- Qué piensan y necesitan los posibles usuarios del sistema.
+- Qué dificultades encuentran hoy al proponer, compartir o desarrollar ideas.
+- Qué aprendizajes deja una experiencia real de innovación o emprendimiento.
+
 Durante esta semana, el equipo deberá:
 
 - Identificar posibles usuarios del sistema.
@@ -23,7 +31,7 @@ La idea es que primero recojan información y luego la sinteticen en la reflexi�
 
 ## Entregables
 
-El equipo deberá entregar los siguientes documentos:
+El equipo deberá entregar:
 
 - `plantilla-entrevista.md`
 - `plantilla-observacion.md`
@@ -31,4 +39,4 @@ El equipo deberá entregar los siguientes documentos:
 
 ## Fecha de entrega
 
-Martes de la próxima semana, antes del inicio de la clase.
+Martes 4 de agosto de 2026, antes de la clase del miércoles 5 de agosto de 2026.

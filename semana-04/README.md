@@ -4,6 +4,14 @@
 
 Construir un prototipo inicial que permita mostrar la solución, conversar con usuarios y preparar una validación real.
 
+## Qué debe lograr el equipo esta semana
+
+Al finalizar esta entrega, el equipo debe haber obtenido:
+
+- Un prototipo inicial con alcance claro.
+- Una decisión sobre qué parte de la solución se va a mostrar primero.
+- Un plan concreto para validar ese prototipo con usuarios reales.
+
 Durante esta semana, el equipo deberá:
 
 - Convertir su concepto en un prototipo inicial.
@@ -24,7 +32,7 @@ La lógica de esta semana es definir el alcance antes de construir, y preparar l
 
 ## Entregables
 
-El equipo deberá entregar los siguientes documentos:
+El equipo deberá entregar:
 
 - `plantilla-prototipo.md`
 - `plantilla-guion-de-prueba.md`
@@ -32,4 +40,4 @@ El equipo deberá entregar los siguientes documentos:
 
 ## Fecha de entrega
 
-Martes de la próxima semana, antes del inicio de la clase.
+Martes 25 de agosto de 2026, antes de la clase del miércoles 26 de agosto de 2026.

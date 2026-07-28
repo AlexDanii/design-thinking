@@ -4,6 +4,14 @@
 
 Generar varias alternativas de solución y seleccionar una propuesta inicial que responda al problema definido.
 
+## Qué debe lograr el equipo esta semana
+
+Al finalizar esta entrega, el equipo debe haber obtenido:
+
+- Varias alternativas de solución para el problema seleccionado.
+- Una decisión argumentada sobre cuál idea vale la pena prototipar primero.
+- Un flujo inicial que muestre cómo funcionaría la propuesta elegida.
+
 Durante esta semana, el equipo deberá:
 
 - Producir varias ideas antes de elegir una solución.
@@ -23,7 +31,7 @@ No elijan la primera idea de inmediato. Primero abran opciones, luego escojan y 
 
 ## Entregables
 
-El equipo deberá entregar los siguientes documentos:
+El equipo deberá entregar:
 
 - `plantilla-ideacion.md`
 - `plantilla-seleccion-de-concepto.md`
@@ -31,4 +39,4 @@ El equipo deberá entregar los siguientes documentos:
 
 ## Fecha de entrega
 
-Martes de la próxima semana, antes del inicio de la clase.
+Martes 18 de agosto de 2026, antes de la clase del miércoles 19 de agosto de 2026.
