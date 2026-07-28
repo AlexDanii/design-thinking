@@ -12,6 +12,16 @@ Durante esta semana, el equipo deberá:
 - Preparar un guion simple para probar el prototipo.
 - Identificar qué preguntas quieren responder con la prueba.
 
+## Secuencia sugerida de trabajo
+
+1. Revisen el concepto elegido y el flujo principal de la semana 3.
+2. Definan qué van a mostrar y qué van a dejar por fuera en `plantilla-prototipo.md`.
+3. Construyan el prototipo inicial con ese alcance.
+4. Preparen la validación con `plantilla-guion-de-prueba.md`.
+5. Cierren con `reflexion-equipo.md`, revisando si el prototipo realmente les permitirá aprender algo útil.
+
+La lógica de esta semana es definir el alcance antes de construir, y preparar la prueba antes de mostrar el prototipo a usuarios.
+
 ## Entregables
 
 El equipo deberá entregar los siguientes documentos:

@@ -12,6 +12,15 @@ Durante esta semana, el equipo deberá:
 - Redactar un punto de vista inicial sobre el problema.
 - Priorizar qué necesidad vale más la pena atender primero.
 
+## Secuencia sugerida de trabajo
+
+1. Revisen la evidencia recogida en la semana 1.
+2. Organicen los hallazgos y patrones en `plantilla-mapa-de-insights.md`.
+3. A partir de esos hallazgos, definan el usuario principal y redacten su problema en `plantilla-pov.md`.
+4. Cierren la semana con `reflexion-equipo.md`, explicando por qué eligieron ese enfoque.
+
+Primero se sintetiza la información y después se toma la decisión sobre el problema a trabajar.
+
 ## Entregables
 
 El equipo deberá entregar los siguientes documentos:

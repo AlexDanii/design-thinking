@@ -12,6 +12,15 @@ Durante esta semana, el equipo deberá:
 - Elegir un concepto inicial para prototipar.
 - Dibujar el flujo básico de uso de la propuesta seleccionada.
 
+## Secuencia sugerida de trabajo
+
+1. Tomen el problema definido en la semana 2 como punto de partida.
+2. Generen varias alternativas y regístrenlas en `plantilla-ideacion.md`.
+3. Comparen las ideas y elijan una propuesta en `plantilla-seleccion-de-concepto.md`.
+4. Describan cómo funcionaría esa propuesta en `plantilla-flujo-inicial.md`.
+
+No elijan la primera idea de inmediato. Primero abran opciones, luego escojan y finalmente describan el flujo principal.
+
 ## Entregables
 
 El equipo deberá entregar los siguientes documentos:
