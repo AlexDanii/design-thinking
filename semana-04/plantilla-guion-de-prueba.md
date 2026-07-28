@@ -1,5 +1,8 @@
 # Guion de prueba con usuarios
 
+> Este documento no debe quedarse solo en planeación.
+> Durante la semana 4, el equipo debe usar este guion para realizar una primera validación del prototipo con usuarios.
+
 ## Información del equipo
 
 **Nombre del equipo:**
@@ -69,6 +72,22 @@ Escriban entre 3 y 5 tareas o preguntas para la sesión.
 ## Criterios de éxito
 
 ¿Qué tendría que pasar para considerar que el prototipo va por buen camino?
+
+- 
+
+- 
+
+- 
+
+---
+
+## Aplicación de la prueba
+
+¿Con cuántas personas aplicaron esta primera validación?
+
+**Cantidad:**
+
+¿Qué ocurrió de manera general durante la prueba?
 
 - 
 

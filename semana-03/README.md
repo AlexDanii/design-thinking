@@ -47,6 +47,12 @@ No se espera todavía:
 - Componentes detallados.
 - Prototipo completamente interactivo.
 
+## Validación en esta semana
+
+En esta semana no se exige una validación formal con usuarios.
+
+El objetivo es que el equipo salga con una propuesta suficientemente clara para convertirla en prototipo y validarla en las semanas 4 y 5.
+
 ## Entregables
 
 El equipo deberá entregar:

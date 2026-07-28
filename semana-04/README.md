@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Construir un prototipo inicial que permita mostrar la solución, conversar con usuarios y preparar una validación real.
+Construir un prototipo inicial que permita mostrar la solución y realizar una primera validación con usuarios.
 
 ## Qué debe lograr el equipo esta semana
 
@@ -10,7 +10,7 @@ Al finalizar esta entrega, el equipo debe haber obtenido:
 
 - Un prototipo inicial en Figma con alcance claro.
 - Una decisión sobre qué parte de la solución se va a mostrar primero.
-- Un plan concreto para validar ese prototipo con usuarios reales.
+- Una primera validación del prototipo con usuarios reales.
 
 Durante esta semana, el equipo deberá:
 
@@ -18,17 +18,18 @@ Durante esta semana, el equipo deberá:
 - Representar las pantallas o pasos esenciales de la solución.
 - Decidir qué parte del sistema van a mostrar primero.
 - Preparar un guion simple para probar el prototipo.
-- Identificar qué preguntas quieren responder con la prueba.
+- Validar ese prototipo con algunos usuarios.
+- Identificar qué preguntas y aprendizajes deja esa primera prueba.
 
 ## Secuencia sugerida de trabajo
 
 1. Revisen el concepto elegido y el flujo principal de la semana 3.
 2. Definan qué van a mostrar y qué van a dejar por fuera en `plantilla-prototipo.md`.
 3. Construyan en Figma el prototipo inicial con ese alcance.
-4. Preparen la validación con `plantilla-guion-de-prueba.md`.
-5. Cierren con `reflexion-equipo.md`, revisando si el prototipo realmente les permitirá aprender algo útil.
+4. Preparen y apliquen la validación con `plantilla-guion-de-prueba.md`.
+5. Cierren con `reflexion-equipo.md`, revisando qué aprendieron en esa primera validación y qué debe mejorar antes de la entrega fuerte de resultados.
 
-La lógica de esta semana es definir el alcance antes de construir, y preparar la prueba antes de mostrar el prototipo a usuarios.
+La lógica de esta semana es definir el alcance, construir el prototipo y hacer una primera validación. La semana 5 servirá para consolidar mejor los resultados y decidir cómo iterar.
 
 ## Uso de Figma en esta semana
 
@@ -46,6 +47,7 @@ Sí se espera:
 - Que el usuario pueda entender la propuesta.
 - Que el equipo pueda explicar el recorrido principal.
 - Que el prototipo sirva para recibir retroalimentación.
+- Que el equipo pueda usarlo en una primera sesión de validación.
 
 No se espera todavía:
 
@@ -61,6 +63,8 @@ El equipo deberá entregar:
 - `plantilla-guion-de-prueba.md`
 - `reflexion-equipo.md`
 - Enlace o evidencia del prototipo en Figma
+
+La entrega de esta semana debe reflejar que el prototipo no solo fue construido, sino también mostrado al menos en una primera validación con usuarios.
 
 ## Fecha de entrega
 
