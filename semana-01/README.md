@@ -39,4 +39,4 @@ El equipo deberá entregar:
 
 ## Fecha de entrega
 
-Martes 4 de agosto de 2026, antes de la clase del miércoles 5 de agosto de 2026.
+Antes de la clase del miércoles 5 de agosto de 2026.

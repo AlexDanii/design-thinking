@@ -69,4 +69,4 @@ La entrega de esta semana debe reflejar que el prototipo no solo fue construido 
 
 ## Fecha de entrega
 
-Martes 25 de agosto de 2026, antes de la clase del miércoles 26 de agosto de 2026.
+Antes de la clase del miércoles 26 de agosto de 2026.
