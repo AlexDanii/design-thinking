@@ -37,5 +37,5 @@ Durante las primeras semanas, el trabajo estará enfocado en comprender a los us
 - `semana-01`: comprender a los usuarios y al ecosistema de innovación.
 - `semana-02`: definir con claridad el problema y las necesidades prioritarias.
 - `semana-03`: generar ideas y seleccionar una propuesta de valor inicial.
-- `semana-04`: construir un prototipo inicial y preparar su validación.
+- `semana-04`: integrar los flujos aprobados en un prototipo más completo y validarlo con mayor alcance.
 - `semana-05`: probar el prototipo con usuarios y recoger aprendizajes para iterar.

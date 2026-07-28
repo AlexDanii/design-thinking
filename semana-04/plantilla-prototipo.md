@@ -1,7 +1,7 @@
-# Planeación del prototipo
+# Planeación del prototipo integrado
 
 > Este entregable debe estar acompañado por un prototipo realizado en Figma.
-> En esta etapa se espera un prototipo de baja o media fidelidad, suficiente para mostrar la idea y probarla con usuarios.
+> En esta etapa se espera un prototipo de baja o media fidelidad que integre los flujos aprobados en la semana 3 y permita una validación más amplia.
 
 ## Información del equipo
 
@@ -11,15 +11,23 @@
 
 ---
 
-## Concepto que vamos a prototipar
+## Flujos que vamos a integrar
 
-Describan en una o dos frases la idea seleccionada.
+Escriban los flujos aprobados en la semana 3 que harán parte de este prototipo.
+
+1.
+
+2.
+
+3.
+
+4.
 
 ---
 
 ## Objetivo del prototipo
 
-¿Qué quieren mostrar o comprobar con este prototipo?
+¿Qué quieren mostrar o comprobar al integrar estos flujos en un solo prototipo?
 
 ---
 
@@ -45,7 +53,7 @@ Describan en una o dos frases la idea seleccionada.
 
 ## Pantallas, escenas o partes principales
 
-Enumeren los elementos que van a construir.
+Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
 1.
 
@@ -54,6 +62,22 @@ Enumeren los elementos que van a construir.
 3.
 
 4.
+
+5.
+
+6.
+
+---
+
+## Integración entre flujos
+
+¿Cómo se conectan entre sí los flujos aprobados?
+
+- 
+
+- 
+
+- 
 
 ---
 

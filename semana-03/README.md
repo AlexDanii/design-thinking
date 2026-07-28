@@ -27,7 +27,7 @@ Durante esta semana, el equipo deberá:
 1. Tomen el problema definido en la semana 2 como punto de partida.
 2. Definan entre 2 y 4 flujos prioritarios y regístrenlos en `plantilla-ideacion.md`.
 3. Justifiquen por qué esos flujos son los más importantes en `plantilla-seleccion-de-concepto.md`.
-4. Para cada flujo, creen dos prototipos de baja resolución y registren la evidencia en `plantilla-flujo-inicial.md`.
+4. Para cada flujo, creen dos prototipos de baja resolución y registren la evidencia en `plantilla-prototipos-por-flujo.md`.
 5. Hagan una validación exploratoria breve de cada flujo con al menos una persona o con compañeros.
 6. Justifiquen qué versión de cada flujo pasará a la semana 4.
 
@@ -71,7 +71,7 @@ El equipo deberá entregar:
 
 - `plantilla-ideacion.md`
 - `plantilla-seleccion-de-concepto.md`
-- `plantilla-flujo-inicial.md`
+- `plantilla-prototipos-por-flujo.md`
 - Enlace o evidencia de los prototipos de baja resolución realizados en Figma para cada flujo priorizado
 
 ## Fecha de entrega
