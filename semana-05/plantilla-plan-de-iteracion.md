@@ -10,7 +10,7 @@
 
 ## Qué debemos cambiar
 
-¿Qué aspectos del prototipo necesitan ajuste inmediato?
+¿Qué aspectos del prototipo integrado necesitan ajuste inmediato después de esta nueva validación?
 
 1.
 
@@ -54,8 +54,9 @@ Clasifiquen los cambios propuestos.
 
 Después de validar, ¿qué decisión toman?
 
-- Mantener la idea y mejorarla.
-- Ajustar parte de la propuesta.
+- Mantener la estructura general y mejorar detalles.
+- Ajustar algunos flujos importantes.
+- Replantear parte de la integración entre flujos.
 - Cambiar el enfoque del problema.
 
 Expliquen brevemente por qué.
@@ -71,3 +72,15 @@ Expliquen brevemente por qué.
 - 
 
 - 
+
+---
+
+## Nivel de preparación para implementación
+
+Después de esta etapa, ¿cómo se encuentra el equipo?
+
+- Listo para pasar a una implementación inicial.
+- Necesita una iteración más antes de implementar.
+- Debe replantear una parte importante de la propuesta.
+
+Expliquen brevemente por qué.

@@ -1,6 +1,6 @@
 # Resultados de validación del prototipo
 
-> Este entregable debe referenciar el mismo prototipo de Figma construido en la semana 4 y usado durante las pruebas con usuarios.
+> Este entregable debe referenciar la versión ajustada del prototipo en Figma, mejorada después de la validación de la semana 4 y usada en una nueva ronda de pruebas con usuarios.
 
 ## Información del equipo
 
@@ -22,15 +22,23 @@
 
 ## Qué se probó
 
-Describan brevemente el prototipo que mostraron.
+Describan brevemente la versión del prototipo que mostraron en esta nueva validación.
 
 **Enlace al prototipo en Figma:**
+
+¿Qué cambios importantes incorporaron desde la semana 4?
+
+- 
+
+- 
+
+- 
 
 ---
 
 ## Hallazgos principales
 
-Resuman los 3 aprendizajes más importantes.
+Resuman los 3 aprendizajes más importantes de esta nueva ronda de validación.
 
 ### Hallazgo 1
 
@@ -99,6 +107,26 @@ Registren frases importantes de los usuarios.
 - 
 
 ### No confirmadas
+
+- 
+
+- 
+
+- 
+
+---
+
+## Comparación con la semana 4
+
+¿Qué mejoró frente a la validación anterior?
+
+- 
+
+- 
+
+- 
+
+¿Qué problemas siguen presentes?
 
 - 
 

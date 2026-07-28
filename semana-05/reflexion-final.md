@@ -16,13 +16,13 @@
 
 ## Lo que aprendimos de la solución
 
-¿Qué descubrieron sobre la idea que decidieron prototipar?
+¿Qué descubrieron sobre los flujos y la solución integrada que decidieron prototipar?
 
 ---
 
 ## Valor de la validación
 
-¿Qué aportó probar el prototipo antes de desarrollar una versión más completa?
+¿Qué aportó validar primero versiones exploratorias y luego un prototipo más integrado antes de desarrollar una versión más completa?
 
 ---
 
