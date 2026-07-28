@@ -1,4 +1,5 @@
-# Registro de observación
+````markdown
+# Registro de historia de innovación
 
 ## Información del equipo
 
@@ -8,61 +9,55 @@
 
 ---
 
-## Contexto de la observación
+# Información de la iniciativa
 
-**Fecha:**
+**Nombre de la iniciativa o empresa (si aplica):**
 
-**Lugar:**
+**Persona entrevistada:**
 
-**Duración aproximada:**
+**Rol dentro de la iniciativa:**
 
-**Tipo de usuario observado:**
-
----
-
-## Objetivo
-
-¿Qué querían comprender mediante esta observación?
+**Fecha de la conversación:**
 
 ---
 
-## Actividad observada
+# La historia
 
-¿Qué estaba intentando hacer la persona?
+## ¿Cómo nació la idea?
 
-Describan brevemente la actividad.
-
----
-
-## ¿Qué hizo?
-
-Describan las acciones realizadas por la persona.
-
--
-
--
-
--
+Describe cómo surgió la idea o la oportunidad que dio origen a la iniciativa.
 
 ---
 
-## ¿Qué dijo?
+## ¿Qué problema querían resolver?
 
-Registren frases, preguntas o comentarios relevantes.
-
->
-
->
-
->
+¿Cuál era la necesidad o problema que identificaron?
 
 ---
 
-## ¿Qué parecía pensar o sentir?
+## ¿Cómo validaron que ese problema realmente existía?
 
-Describan posibles emociones, dudas, preocupaciones o motivaciones.
+¿Qué hicieron para confirmar que las personas realmente tenían ese problema?
 
-> Estas son interpretaciones del equipo y deben distinguirse de los hechos observados.
+- Entrevistas
+- Encuestas
+- Observación
+- Pruebas
+- Otro:
+
+¿Qué aprendieron durante ese proceso?
+
+---
+
+## ¿Cómo se conformó el equipo?
+
+¿Cómo encontraron a las personas que hoy hacen parte de la iniciativa?
+
+---
+
+## Principales retos
+
+¿Cuáles fueron las mayores dificultades al comenzar?
 
 -
 
@@ -72,21 +67,9 @@ Describan posibles emociones, dudas, preocupaciones o motivaciones.
 
 ---
 
-## Dificultades observadas
+## Si pudieran volver a empezar...
 
-¿Qué problemas, obstáculos o frustraciones pudieron identificar?
-
--
-
--
-
--
-
----
-
-## Soluciones actuales
-
-¿Cómo intenta resolver actualmente estos problemas?
+¿Qué harían diferente?
 
 -
 
@@ -96,9 +79,9 @@ Describan posibles emociones, dudas, preocupaciones o motivaciones.
 
 ---
 
-## Oportunidades identificadas
+## Aprendizajes para nuestro proyecto
 
-¿Qué oportunidades de mejora encontró el equipo?
+¿Qué enseñanzas deja esta historia para el desarrollo de nuestro proyecto?
 
 -
 
@@ -108,6 +91,19 @@ Describan posibles emociones, dudas, preocupaciones o motivaciones.
 
 ---
 
-## Conclusión
+## Oportunidades para el ecosistema de innovación de Uninorte
 
-¿Qué aprendió el equipo a partir de esta observación?
+Después de escuchar esta historia, ¿qué oportunidades identifica el equipo para mejorar la forma en que los estudiantes proponen ideas, forman equipos y desarrollan proyectos de innovación?
+
+-
+
+-
+
+-
+
+---
+
+## Reflexión final
+
+Escriban un párrafo corto (5–10 líneas) explicando qué fue lo más valioso que aprendieron de esta conversación y cómo influirá en el desarrollo de su proyecto.
+````

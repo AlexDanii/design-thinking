@@ -8,9 +8,29 @@
 
 ---
 
+## Actividades realizadas
+
+### Entrevistas a usuarios potenciales
+
+**Cantidad de personas entrevistadas:**
+
+**Tipo de usuarios consultados:**
+
+---
+
+### Historia de innovación
+
+**Nombre de la iniciativa, empresa o proyecto consultado:**
+
+**Persona entrevistada:**
+
+**Rol de la persona:**
+
+---
+
 ## Supuestos iniciales
 
-Antes de hablar con los usuarios, ¿qué creía el equipo sobre el problema?
+Antes de realizar las entrevistas y conocer la historia de innovación, ¿qué creía el equipo sobre el problema?
 
 -
 
@@ -20,29 +40,41 @@ Antes de hablar con los usuarios, ¿qué creía el equipo sobre el problema?
 
 ---
 
-## Usuarios consultados
+## Aprendizajes sobre los usuarios potenciales
 
-¿Cuántas personas fueron entrevistadas u observadas?
+¿Qué necesidades, expectativas o preocupaciones expresaron los estudiantes entrevistados?
 
-¿Qué tipos de usuarios participaron?
+-
 
----
+-
 
-## Principales aprendizajes
-
-Resuman los tres hallazgos más importantes de la semana.
-
-### Hallazgo 1
-
-### Hallazgo 2
-
-### Hallazgo 3
+-
 
 ---
 
-## Necesidades identificadas
+## Aprendizajes sobre el proceso de innovación
 
-¿Cuáles parecen ser las necesidades más importantes de los usuarios?
+¿Qué aprendieron de la persona o iniciativa que ya ha participado en un proceso de innovación o emprendimiento?
+
+-
+
+-
+
+-
+
+---
+
+## Principales dificultades identificadas
+
+¿Qué obstáculos enfrentan los estudiantes para proponer, compartir o desarrollar una idea?
+
+-
+
+-
+
+-
+
+¿Qué obstáculos enfrentan las iniciativas después de comenzar?
 
 -
 
@@ -54,7 +86,27 @@ Resuman los tres hallazgos más importantes de la semana.
 
 ## Patrones encontrados
 
-¿Qué respuestas, comportamientos o dificultades se repitieron entre los usuarios?
+¿Qué elementos se repitieron en las entrevistas con usuarios?
+
+-
+
+-
+
+-
+
+¿Qué elementos de esas entrevistas también aparecieron en la historia de innovación?
+
+-
+
+-
+
+-
+
+---
+
+## Diferencias encontradas
+
+¿En qué se diferencia lo que imaginan o esperan los usuarios potenciales de lo que realmente ocurre durante un proceso de innovación?
 
 -
 
@@ -66,7 +118,7 @@ Resuman los tres hallazgos más importantes de la semana.
 
 ## Supuestos confirmados
 
-¿Qué ideas iniciales del equipo fueron confirmadas por la investigación?
+¿Qué ideas iniciales del equipo fueron confirmadas?
 
 -
 
@@ -78,7 +130,7 @@ Resuman los tres hallazgos más importantes de la semana.
 
 ## Supuestos que cambiaron
 
-¿Qué ideas iniciales resultaron incorrectas o incompletas?
+¿Qué ideas iniciales resultaron incorrectas, incompletas o demasiado generales?
 
 -
 
@@ -100,9 +152,47 @@ Resuman los tres hallazgos más importantes de la semana.
 
 ---
 
+## Necesidades prioritarias
+
+¿Cuáles parecen ser las necesidades más importantes que debería atender el sistema de innovación?
+
+1.
+
+2.
+
+3.
+
+---
+
+## Oportunidades para el sistema
+
+¿Qué oportunidades identifica el equipo para ayudar a los estudiantes a:
+
+### Proponer ideas
+
+-
+
+### Encontrar personas interesadas
+
+-
+
+### Formar equipos
+
+-
+
+### Prototipar y validar una idea
+
+-
+
+### Recibir apoyo de la comunidad
+
+-
+
+---
+
 ## Preguntas pendientes
 
-¿Qué aspectos necesitan investigar con mayor profundidad?
+¿Qué aspectos todavía necesitan investigar?
 
 -
 
@@ -114,4 +204,4 @@ Resuman los tres hallazgos más importantes de la semana.
 
 ## Conclusión del equipo
 
-Escriban un párrafo de entre 5 y 10 líneas explicando cómo cambió su comprensión del problema después de hablar y observar a los usuarios.
+Escriban un párrafo de entre 5 y 10 líneas que responda la siguiente pregunta:
