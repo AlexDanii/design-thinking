@@ -10,13 +10,21 @@
 
 ## Conceptos evaluados
 
-¿Cuáles fueron las 3 ideas finalistas?
+¿Cuáles fueron las ideas finalistas y cuáles dos pasarán a prototipo de baja resolución?
+
+**Ideas finalistas:**
 
 1.
 
 2.
 
 3.
+
+**Dos ideas seleccionadas para prototipar:**
+
+- Prototipo A:
+
+- Prototipo B:
 
 ---
 
@@ -44,15 +52,45 @@ Completen de forma breve:
 
 ---
 
+## Validación exploratoria
+
+¿Con quién validaron estas dos propuestas?
+
+- Usuario potencial
+- Compañero
+- Otro:
+
+¿Cuántas personas participaron?
+
+**Cantidad:**
+
+¿Qué reacción general tuvieron frente al Prototipo A?
+
+- 
+
+- 
+
+- 
+
+¿Qué reacción general tuvieron frente al Prototipo B?
+
+- 
+
+- 
+
+- 
+
+---
+
 ## Concepto elegido
 
-¿Qué idea seleccionó el equipo?
+¿Qué propuesta eligió el equipo para pasar a la semana 4?
 
 ---
 
 ## Razones de la elección
 
-¿Por qué esta idea parece la mejor para avanzar?
+¿Por qué esta propuesta parece la mejor para avanzar después de la validación exploratoria?
 
 - 
 
@@ -64,7 +102,7 @@ Completen de forma breve:
 
 ## Riesgos de la idea elegida
 
-¿Qué cosas necesitan validar antes de asumir que esta solución funciona?
+¿Qué cosas siguen sin estar claras y deben validarse mejor en la semana 4?
 
 - 
 

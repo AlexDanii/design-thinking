@@ -14,7 +14,8 @@ Al finalizar esta entrega, el equipo debe haber obtenido:
 
 Durante esta semana, el equipo deberá:
 
-- Convertir su concepto en un prototipo inicial.
+- Tomar el flujo justificado que salió de la semana 3.
+- Convertir ese flujo en un prototipo inicial más claro.
 - Representar las pantallas o pasos esenciales de la solución.
 - Decidir qué parte del sistema van a mostrar primero.
 - Preparar un guion simple para probar el prototipo.
@@ -23,7 +24,7 @@ Durante esta semana, el equipo deberá:
 
 ## Secuencia sugerida de trabajo
 
-1. Revisen el concepto elegido y el flujo principal de la semana 3.
+1. Revisen el flujo seleccionado y la validación exploratoria de la semana 3.
 2. Definan qué van a mostrar y qué van a dejar por fuera en `plantilla-prototipo.md`.
 3. Construyan en Figma el prototipo inicial con ese alcance.
 4. Preparen y apliquen la validación con `plantilla-guion-de-prueba.md`.
