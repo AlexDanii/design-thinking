@@ -1,0 +1,25 @@
+# Semana 2: Definir
+
+## Objetivo
+
+Transformar lo aprendido en la semana 1 en una definición clara del problema que el equipo quiere abordar.
+
+Durante esta semana, el equipo deberá:
+
+- Revisar entrevistas, historias de innovación y reflexiones de la semana 1.
+- Identificar patrones y necesidades recurrentes.
+- Formular un perfil claro del usuario principal.
+- Redactar un punto de vista inicial sobre el problema.
+- Priorizar qué necesidad vale más la pena atender primero.
+
+## Entregables
+
+El equipo deberá entregar los siguientes documentos:
+
+- `plantilla-mapa-de-insights.md`
+- `plantilla-pov.md`
+- `reflexion-equipo.md`
+
+## Fecha de entrega
+
+Martes de la próxima semana, antes del inicio de la clase.

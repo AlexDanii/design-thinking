@@ -1,4 +1,3 @@
-````markdown
 # Registro de historia de innovación
 
 ## Información del equipo
@@ -106,4 +105,3 @@ Después de escuchar esta historia, ¿qué oportunidades identifica el equipo pa
 ## Reflexión final
 
 Escriban un párrafo corto (5–10 líneas) explicando qué fue lo más valioso que aprendieron de esta conversación y cómo influirá en el desarrollo de su proyecto.
-````

@@ -31,3 +31,11 @@ El proyecto seguirá las fases de Design Thinking:
 Cada semana, los equipos realizarán una actividad específica y entregarán los resultados correspondientes.
 
 Durante las primeras semanas, el trabajo estará enfocado en comprender a los usuarios y validar el problema antes de comenzar la implementación de la solución.
+
+## Ruta de trabajo hasta la semana 5
+
+- `semana-01`: comprender a los usuarios y al ecosistema de innovación.
+- `semana-02`: definir con claridad el problema y las necesidades prioritarias.
+- `semana-03`: generar ideas y seleccionar una propuesta de valor inicial.
+- `semana-04`: construir un prototipo inicial y preparar su validación.
+- `semana-05`: probar el prototipo con usuarios y recoger aprendizajes para iterar.

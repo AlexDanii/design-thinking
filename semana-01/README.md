@@ -8,7 +8,7 @@ Durante esta semana, el equipo deberá:
 
 - Identificar posibles usuarios del sistema.
 - Realizar entrevistas.
-- Observar cómo los usuarios enfrentan actualmente el problema.
+- Conocer la historia de una iniciativa o emprendimiento relacionado con innovación.
 - Documentar los principales hallazgos.
 - Reflexionar sobre los descubrimientos realizados.
 
