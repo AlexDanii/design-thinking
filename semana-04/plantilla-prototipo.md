@@ -81,16 +81,17 @@ Enumeren los elementos que van a construir y cómo se conectan entre sí.
 
 ---
 
-## Materiales o herramientas
+## Herramienta de trabajo
 
-¿Cómo construirán el prototipo?
+¿Cómo construirán el prototipo integrado?
 
-- Papel
-- Presentación
-- Wireframes
-- Maqueta digital
-- Figma
-- Otro:
+**Herramienta esperada:** Figma
+
+Si usan algún apoyo adicional, indíquenlo aquí:
+
+- 
+
+- 
 
 ---
 
