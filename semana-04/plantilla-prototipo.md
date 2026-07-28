@@ -1,5 +1,8 @@
 # Planeación del prototipo
 
+> Este entregable debe estar acompañado por un prototipo realizado en Figma.
+> En esta etapa se espera un prototipo de baja o media fidelidad, suficiente para mostrar la idea y probarla con usuarios.
+
 ## Información del equipo
 
 **Nombre del equipo:**
@@ -62,6 +65,7 @@ Enumeren los elementos que van a construir.
 - Presentación
 - Wireframes
 - Maqueta digital
+- Figma
 - Otro:
 
 ---
@@ -69,6 +73,22 @@ Enumeren los elementos que van a construir.
 ## Hipótesis a validar
 
 ¿Qué creen que sucederá cuando un usuario vea o use este prototipo?
+
+- 
+
+- 
+
+- 
+
+---
+
+## Evidencia en Figma
+
+Peguen aquí el enlace al archivo o prototipo de Figma:
+
+**Enlace:**
+
+¿Qué puede recorrer o ver una persona dentro de ese prototipo?
 
 - 
 

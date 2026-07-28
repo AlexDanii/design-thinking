@@ -1,5 +1,7 @@
 # Resultados de validación del prototipo
 
+> Este entregable debe referenciar el mismo prototipo de Figma construido en la semana 4 y usado durante las pruebas con usuarios.
+
 ## Información del equipo
 
 **Nombre del equipo:**
@@ -21,6 +23,8 @@
 ## Qué se probó
 
 Describan brevemente el prototipo que mostraron.
+
+**Enlace al prototipo en Figma:**
 
 ---
 

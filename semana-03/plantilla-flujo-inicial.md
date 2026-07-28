@@ -1,5 +1,8 @@
 # Flujo inicial de la propuesta
 
+> Este entregable debe estar acompañado por un flujo realizado en Figma.
+> En esta etapa basta con un flujo de baja fidelidad: pantallas simples, nombres claros y conexiones entre pasos.
+
 ## Información del equipo
 
 **Nombre del equipo:**
@@ -42,6 +45,22 @@ Describan de forma sencilla el recorrido principal del usuario.
 3.
 
 4.
+
+---
+
+## Evidencia en Figma
+
+Peguen aquí el enlace al archivo o frame de Figma:
+
+**Enlace:**
+
+Describan brevemente qué mostraron en Figma:
+
+- 
+
+- 
+
+- 
 
 ---
 

@@ -29,6 +29,18 @@ Durante esta semana, el equipo deberá:
 
 Primero se prueba, después se analiza lo ocurrido y finalmente se decide cómo continuar.
 
+## Uso de Figma en esta semana
+
+En esta semana, Figma se usará como el prototipo que será mostrado a los usuarios durante la validación.
+
+El nivel de detalle esperado es el mismo construido en la semana 4:
+
+- Un prototipo entendible.
+- Un recorrido principal visible.
+- Interacciones suficientes para observar reacciones del usuario.
+
+Lo importante ya no es diseñar más pantallas, sino usar el prototipo para aprender.
+
 ## Entregables
 
 El equipo deberá entregar:
@@ -36,6 +48,7 @@ El equipo deberá entregar:
 - `plantilla-resultados-de-validacion.md`
 - `plantilla-plan-de-iteracion.md`
 - `reflexion-final.md`
+- Enlace o evidencia del prototipo en Figma usado en la validación
 
 ## Fecha de entrega
 

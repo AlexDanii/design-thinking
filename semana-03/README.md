@@ -10,7 +10,7 @@ Al finalizar esta entrega, el equipo debe haber obtenido:
 
 - Varias alternativas de solución para el problema seleccionado.
 - Una decisión argumentada sobre cuál idea vale la pena prototipar primero.
-- Un flujo inicial que muestre cómo funcionaría la propuesta elegida.
+- Un flujo inicial en Figma que muestre cómo funcionaría la propuesta elegida.
 
 Durante esta semana, el equipo deberá:
 
@@ -18,7 +18,7 @@ Durante esta semana, el equipo deberá:
 - Explorar distintas maneras de ayudar al usuario.
 - Comparar ventajas y riesgos de las ideas generadas.
 - Elegir un concepto inicial para prototipar.
-- Dibujar el flujo básico de uso de la propuesta seleccionada.
+- Dibujar en Figma el flujo básico de uso de la propuesta seleccionada.
 
 ## Secuencia sugerida de trabajo
 
@@ -29,6 +29,24 @@ Durante esta semana, el equipo deberá:
 
 No elijan la primera idea de inmediato. Primero abran opciones, luego escojan y finalmente describan el flujo principal.
 
+## Uso de Figma en esta semana
+
+En esta semana, Figma se usará para representar el flujo principal de la propuesta, no para hacer un diseño visual final.
+
+El nivel de detalle esperado es:
+
+- Pantallas o bloques básicos.
+- Flechas o conexiones entre pasos.
+- Nombre de cada pantalla o momento clave.
+- Acciones principales del usuario.
+
+No se espera todavía:
+
+- Diseño visual de alta fidelidad.
+- Colores, tipografías o estilo final.
+- Componentes detallados.
+- Prototipo completamente interactivo.
+
 ## Entregables
 
 El equipo deberá entregar:
@@ -36,6 +54,7 @@ El equipo deberá entregar:
 - `plantilla-ideacion.md`
 - `plantilla-seleccion-de-concepto.md`
 - `plantilla-flujo-inicial.md`
+- Enlace o evidencia del flujo realizado en Figma
 
 ## Fecha de entrega
 
