@@ -68,7 +68,7 @@ Resuman los aspectos más importantes mencionados por la persona entrevistada.
 
 Escriban algunas frases relevantes utilizando, en lo posible, las palabras exactas de la persona entrevistada.
 
->
+> Seria bueno ver el impacto que puede tener
 
 >
 
@@ -80,9 +80,9 @@ Escriban algunas frases relevantes utilizando, en lo posible, las palabras exact
 
 ¿Qué necesidades pudieron identificar?
 
--
+- Puede ser necesario para proyectos de grados
 
--
+- Puede ser necesario para Expofisica
 
 -
 
@@ -92,9 +92,9 @@ Escriban algunas frases relevantes utilizando, en lo posible, las palabras exact
 
 ¿Qué problemas, frustraciones o dificultades mencionó la persona?
 
--
-
--
+- Hay personas que puede que no visiten la plataforma
+ 
+- Que no sepan que existe la plataforma
 
 -
 
@@ -104,9 +104,9 @@ Escriban algunas frases relevantes utilizando, en lo posible, las palabras exact
 
 ¿Qué respuestas o comportamientos sorprendieron al equipo?
 
--
+- Que realmente se tomo el tiempo de pensar 
 
--
+- Nos dio ideas de lo que podemos mejorar
 
 -
 
@@ -115,3 +115,5 @@ Escriban algunas frases relevantes utilizando, en lo posible, las palabras exact
 ## Conclusión
 
 ¿Qué aprendió el equipo de esta entrevista?
+
+Nuevamente encontramos que escuchar a las personas nos ayuda a tener una mejor visión de las necesidades de los posibles futuros usuarios
