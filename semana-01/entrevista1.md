@@ -10,13 +10,17 @@
 
 ## Información del entrevistado
 
-**Nombre o seudónimo:**
+**Nombre o seudónimo:** 
+
+Dayana Garcia
 
 **Edad, si es relevante:**
 
 **Rol:**
 
 **Relación con la Universidad del Norte:**
+
+Estudiante de psicología
 
 > No es necesario registrar información personal que permita identificar al entrevistado.
 
