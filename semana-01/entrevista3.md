@@ -10,13 +10,17 @@
 
 ## Información del entrevistado
 
-**Nombre o seudónimo:**
+**Nombre o seudónimo:** Saray Terrill
 
 **Edad, si es relevante:**
 
-**Rol:**
+**Rol:** 
 
-**Relación con la Universidad del Norte:**
+Practicante de laboratorio financiero
+
+**Relación con la Universidad del Norte:** 
+
+Estudiante de Administración y Contaduria
 
 > No es necesario registrar información personal que permita identificar al entrevistado.
 
@@ -36,11 +40,13 @@
 
 **Fecha:**
 
-**Lugar o medio:**
+**Lugar o medio:** 
+
+Centro de emprendimiento
 
 **Duración aproximada:**
 
----
+10 minto
 
 ## Preguntas realizadas
 
@@ -68,11 +74,13 @@ Resuman los aspectos más importantes mencionados por la persona entrevistada.
 
 Escriban algunas frases relevantes utilizando, en lo posible, las palabras exactas de la persona entrevistada.
 
->
+>El hecho de pertener a la escuela le ha permitido desarrollar diferentes habilidades para el trabajo y el emprendimiento
 
->
+>Las ha compartido en el centro de emprendimiento donde le han brindado asesoramiento para escalar las ideas
 
->
+>Usa word, excel, super fundamental la herramienta del correo que es donde colocan las ideas de todo lo que les surge, teniendo en cuenta los conductos de la univesidad
+
+> Es muy importante ya que permite hacer una recosntrucción de los proyectos y eso permite resolver a las necesidad que hay que atender actualmente.
 
 ---
 
