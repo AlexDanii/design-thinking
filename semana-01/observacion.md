@@ -89,7 +89,6 @@ Nace de un concurso que hace la universidad del norte con Promigas y la Andi, Da
 
 - Manejarlo en paralelo, uno de los temas mas dificiles son la validación del mercado. Dividir en 2 tareas distintas, 1 ir desarrollando el proyecto, 2 armar un canal de difusión de whatsapp para conocer como es el comportarmiento de las personas, ver como interactuan, que hacen y que no, que buscan mayormente para crear una necesidad a las personas y luego proponerles que se pasen a esta solución. 
 
-
 ---
 
 ## Oportunidades para el ecosistema de innovación de Uninorte
